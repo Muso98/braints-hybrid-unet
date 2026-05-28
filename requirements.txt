@@ -1,0 +1,21 @@
+# Core
+numpy>=1.24,<2.0
+nibabel==5.2.1
+scikit-image==0.22.0
+scikit-learn==1.4.2
+pandas==2.2.2
+matplotlib==3.8.4
+tqdm==4.66.4
+PyYAML==6.0.1
+
+# Augmentation
+albumentations==1.4.7
+
+# Metrics (Hausdorff)
+scipy==1.13.0
+
+# Logging
+tensorboard==2.16.2
+
+# Optional but useful
+seaborn==0.13.2

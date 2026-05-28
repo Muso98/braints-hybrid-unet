@@ -1,0 +1,4 @@
+Model,Mean Dice,Median Dice,Mean IoU,Mean Hausdorff (px),N slices
+Baseline U-Net,0.8339,0.9073,0.7512,14.9843,1176
+Hybrid U-Net Transformer,0.8409,0.9081,0.7577,14.2656,1176
+Improvement (Hybrid - U-Net),0.0070,0.0008,0.0066,-0.7187,—
