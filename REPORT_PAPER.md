@@ -4,6 +4,13 @@
 **Course:** Research Seminar in HW/SW Aspects of Machine Learning for Smart Systems and Communications
 **Date:** May 2026
 
+
+This project was carried out at the University of Klagenfurt,
+Study Program: Information and Communication Engineering.
+
+Course: Research Seminar in HW/SW Aspects of Machine Learning for Smart Systems and Communications.
+
+Instructor: Prof. Andrea Tonello.
 ---
 
 ## Abstract
