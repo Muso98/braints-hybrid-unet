@@ -302,12 +302,6 @@ brain_tumor_segmentation/
 ├── checkpoints/
 
 
-This project was carried out at the University of Klagenfurt,
-Study Program: Information and Communication Engineering.
-
-Course: Research Seminar in HW/SW Aspects of Machine Learning for Smart Systems and Communications.
-
-Instructor: Prof. Andrea Tonello.
 │   ├── unet_best.pth
 │   └── hybrid_best.pth
 └── paper_figures/          — All figures for this report
